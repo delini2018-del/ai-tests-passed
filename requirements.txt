@@ -1,0 +1,5 @@
+pytest
+coverage
+freezegun
+polib
+matplotlib
